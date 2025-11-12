@@ -49,7 +49,7 @@ smart-manufacturing-lab/
 ├── Design_CNC/
 ├── Data_Analytics/
 └── LabView_Automation/
-
+```
 ---
 
 ## 🧠 Tools & Technologies
